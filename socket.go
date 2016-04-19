@@ -1,6 +1,6 @@
 // Package socketio implements a client for SocketIO protocol
 // as specified in https://github.com/LearnBoost/socket.io-spec
-package socketio
+package socketio_client
 
 import (
 	"time"

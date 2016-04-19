@@ -1,4 +1,4 @@
-package socketio
+package socketio_client
 
 import (
 	"testing"
